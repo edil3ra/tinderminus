@@ -1,0 +1,8 @@
+facebook_email: ""
+facebook_password: ""
+facebook_id: ""
+facebook_token: ""
+proxies:
+  http: "127.0.0.1:8080"
+  https: "127.0.0.1:8080"
+
